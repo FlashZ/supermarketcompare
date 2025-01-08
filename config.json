@@ -1,0 +1,15 @@
+{
+    "db": {
+      "host": "127.0.0.1",
+      "port": 5432,
+      "dbname": "price_comparison",
+      "user": "postgres",
+      "password": "mysecretpassword"
+    },
+    "newWorld": {
+      "chainName": "New World",
+      "baseUrl": "https://www.newworld.co.nz",
+      "apiUrl": "https://api-prod.newworld.co.nz"
+    }
+  }
+  
