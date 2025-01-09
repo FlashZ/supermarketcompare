@@ -1,6 +1,6 @@
-# Price Comparison Scraper
+# New World Supermarket Scraper
 
-This project is a supermarket price scraper for collecting and comparing product prices from the "New World" supermarket chain in New Zealand. It includes a Python-based scraper that interacts with APIs and a PostgreSQL database for storing the retrieved data.
+This project is a supermarket price scraper for collecting and comparing product prices from the "New World" supermarket chain in New Zealand. It includes a Python-based scraper that interacts with New Worlds APIs used for the frontend website and a PostgreSQL database for storing the retrieved data.
 
 ## Features
 
